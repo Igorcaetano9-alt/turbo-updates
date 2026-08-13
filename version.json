@@ -1,0 +1,7 @@
+{
+  "versionCode": 15,
+  "versionName": "0.15.0",
+  "apkUrl": "https://igorcaetano9-alt.github.io/turbo-updates/turbo-br-pro-0.15.0.apk",
+  "notes": "Melhorias internas: o aplicativo passa a buscar atualizações em servidor próprio.",
+  "sha256": "322600fab0bd40577b4403a641251757b295b6b25f986fcb20da694ec3fc4043"
+}
