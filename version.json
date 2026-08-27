@@ -1,7 +1,7 @@
 {
-  "versionCode": 17,
-  "versionName": "0.17.0",
-  "apkUrl": "https://igorcaetano9-alt.github.io/turbo-updates/turbo-br-pro-0.17.0.apk",
-  "notes": "Correções: o canal volta sozinho quando a imagem falha, o app pergunta antes de sair da conta, e séries e fichas ficaram mais estáveis. Sua conta e sua lista continuam como estavam.",
-  "sha256": "dfe413f17c5443502252210e89951080a2add7a13ddc7f44a9471072bbd2dd15"
+  "versionCode": 18,
+  "versionName": "0.18.0",
+  "apkUrl": "https://igorcaetano9-alt.github.io/turbo-updates/turbo-br-pro-0.18.0.apk",
+  "notes": "O controle parental agora vale também para os canais ao vivo, inclusive na lista de canais de dentro do player. Sua conta e sua lista continuam como estavam.",
+  "sha256": "004c853ecf94b889fb276080993b5d97c1ed6172dfb71f4789462ca801ff277c"
 }
