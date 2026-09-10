@@ -1,7 +1,7 @@
 {
-  "versionCode": 18,
-  "versionName": "0.18.0",
-  "apkUrl": "https://igorcaetano9-alt.github.io/turbo-updates/turbo-br-pro-0.18.0.apk",
-  "notes": "O controle parental agora vale também para os canais ao vivo, inclusive na lista de canais de dentro do player. Sua conta e sua lista continuam como estavam.",
-  "sha256": "004c853ecf94b889fb276080993b5d97c1ed6172dfb71f4789462ca801ff277c"
+  "versionCode": 20,
+  "versionName": "0.20.0",
+  "apkUrl": "https://updates.baixarapp1.net/turbo-br-pro-0.20.0.apk",
+  "notes": "Agora você entra com um código no lugar do endereço do servidor. As novidades também aparecem primeiro nas pastas de filmes e séries. Sua conta e sua lista continuam como estavam.",
+  "sha256": "4279dab33d190dba927d834af205f8170ccdacc0e06d0a228ec64c426dfe27cb"
 }
