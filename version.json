@@ -1,7 +1,7 @@
 {
-  "versionCode": 21,
-  "versionName": "0.21.0",
-  "apkUrl": "https://updates.baixarapp1.net/turbo-br-pro-0.21.0.apk",
-  "notes": "O controle de pais agora já vem ligado, para proteger sua TV. Se quiser desligar, use a senha que seu provedor enviou. E na tela de entrar a senha aparece enquanto você digita, para conferir antes.",
-  "sha256": "841bf0ce9a3723946321f4b0851c348feb4fb85ece3aa28594c03d03c15b2c5d"
+  "versionCode": 22,
+  "versionName": "0.22.0",
+  "apkUrl": "https://updates.baixarapp1.net/turbo-br-pro-0.22.0.apk",
+  "notes": "A tela de entrar agora rola enquanto você digita, e a senha aparece para você conferir. A tela de instalar a atualização passou a mostrar o Turbo.Br PRO com o logo, e a atualização tenta de novo sozinha se a internet falhar.",
+  "sha256": "b17c7440f18070e05e6d96fce3a01eead1fce7c757c940542bca8acb46f6be09"
 }
