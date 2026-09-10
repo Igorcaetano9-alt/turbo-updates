@@ -1,7 +1,7 @@
 {
-  "versionCode": 20,
-  "versionName": "0.20.0",
-  "apkUrl": "https://updates.baixarapp1.net/turbo-br-pro-0.20.0.apk",
-  "notes": "Agora você entra com um código no lugar do endereço do servidor. As novidades também aparecem primeiro nas pastas de filmes e séries. Sua conta e sua lista continuam como estavam.",
-  "sha256": "4279dab33d190dba927d834af205f8170ccdacc0e06d0a228ec64c426dfe27cb"
+  "versionCode": 21,
+  "versionName": "0.21.0",
+  "apkUrl": "https://updates.baixarapp1.net/turbo-br-pro-0.21.0.apk",
+  "notes": "O controle de pais agora já vem ligado, para proteger sua TV. Se quiser desligar, use a senha que seu provedor enviou. E na tela de entrar a senha aparece enquanto você digita, para conferir antes.",
+  "sha256": "841bf0ce9a3723946321f4b0851c348feb4fb85ece3aa28594c03d03c15b2c5d"
 }
