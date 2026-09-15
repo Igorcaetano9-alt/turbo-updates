@@ -1,7 +1,7 @@
 {
-  "versionCode": 24,
-  "versionName": "0.24.0",
-  "apkUrl": "https://updates.baixarapp1.net/turbo-br-pro-0.24.0.apk",
-  "notes": "No celular, o app agora abre sempre deitado e ocupa a tela do jeito certo. E tocando na tela durante o conteúdo aparecem as informações do canal, a programação e os botões de favoritar, lista e voltar.",
-  "sha256": "fc84a5305526aaf1eb295e5280fc0c1e6e8f088c4d44d80456570eff3f993d5e"
+  "versionCode": 25,
+  "versionName": "0.25.0",
+  "apkUrl": "https://updates.baixarapp1.net/turbo-br-pro-0.25.0.apk",
+  "notes": "Correção na entrada: em alguns aparelhos, logo depois de entrar com o código, o app abria sem o conteúdo da sua linha. Agora ele entra direto no seu conteúdo e, se algo falhar, se corrige sozinho.",
+  "sha256": "6db400fa094c67138723df81a6a54b3c338eac484ba5c5aa303adf53e910b739"
 }
