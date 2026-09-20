@@ -1,7 +1,7 @@
 {
-  "versionCode": 26,
-  "versionName": "0.26.0",
-  "apkUrl": "https://updates.baixarapp1.net/turbo-br-pro-0.26.0.apk",
-  "notes": "Agora, na primeira vez que abre, o app pergunta se voce usa este aparelho com o controle remoto ou tocando na tela — e passa a abrir do jeito certo em TV, TV Box, celular e tablet. No celular a tela ficou igual a da TV.",
-  "sha256": "980fc8ec08b07ef60bc29527635c1655d01ac5077d9da0d8b467a9b5b4152796"
+  "versionCode": 27,
+  "versionName": "0.27.0",
+  "apkUrl": "https://updates.baixarapp1.net/turbo-br-pro-0.27.0.apk",
+  "notes": "Correcao da tela que pergunta como voce usa o aparelho: no celular deitado ela nao cabia inteira e o botao Confirmar ficava fora da tela, sem como responder. Agora a tela se ajusta ao tamanho do aparelho.",
+  "sha256": "270688ac0e9ed165facd5d358125496f07480a106af1d903c328b8f195ebe47b"
 }
