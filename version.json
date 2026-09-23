@@ -1,7 +1,7 @@
 {
-  "versionCode": 27,
-  "versionName": "0.27.0",
-  "apkUrl": "https://updates.baixarapp1.net/turbo-br-pro-0.27.0.apk?v=27",
-  "notes": "Correcao da tela que pergunta como voce usa o aparelho: no celular deitado ela nao cabia inteira e o botao Confirmar ficava fora da tela, sem como responder. Agora a tela se ajusta ao tamanho do aparelho.",
-  "sha256": "270688ac0e9ed165facd5d358125496f07480a106af1d903c328b8f195ebe47b"
+  "versionCode": 28,
+  "versionName": "0.28.0",
+  "apkUrl": "https://updates.baixarapp1.net/turbo-br-pro-0.28.0.apk",
+  "notes": "Marca nova do Turbo.Br PRO. As pastas de Filmes, Series e Ao Vivo deixam de mostrar o conteudo de uma pasta enquanto marcam outra. A tela de Inicio abre com os filmes novos, depois as series e os canais por ultimo. No celular, o menu lateral, a tela Conta e a janela da senha agora rolam ate o fim.",
+  "sha256": "1ce7959cda8a33b262eb3e2970ca693de9efc45c00267dbb892418282a0802df"
 }
