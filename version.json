@@ -1,7 +1,7 @@
 {
-  "versionCode": 28,
-  "versionName": "0.28.0",
-  "apkUrl": "https://updates.baixarapp1.net/turbo-br-pro-0.28.0.apk",
-  "notes": "Marca nova do Turbo.Br PRO. As pastas de Filmes, Series e Ao Vivo deixam de mostrar o conteudo de uma pasta enquanto marcam outra. A tela de Inicio abre com os filmes novos, depois as series e os canais por ultimo. No celular, o menu lateral, a tela Conta e a janela da senha agora rolam ate o fim.",
-  "sha256": "1ce7959cda8a33b262eb3e2970ca693de9efc45c00267dbb892418282a0802df"
+  "versionCode": 29,
+  "versionName": "0.29.0",
+  "apkUrl": "https://updates.baixarapp1.net/turbo-br-pro-0.29.0.apk",
+  "notes": "Icone novo do app: o turbo Turbo.Br PRO, no lugar do mascote. O mascote continua na tela de abertura.",
+  "sha256": "be2e70ce96ec6b3704cf92246441a5dba2ee54a23cb933a9531e55796afa5c21"
 }
