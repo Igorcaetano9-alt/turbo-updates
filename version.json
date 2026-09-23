@@ -1,7 +1,7 @@
 {
-  "versionCode": 31,
-  "versionName": "0.31.0",
-  "apkUrl": "https://updates.baixarapp1.net/turbo-br-pro-0.31.0.apk",
-  "notes": "Ao entrar pela primeira vez, o app mostra que esta carregando em vez de abrir com poucos canais na tela. Aviso de versao nova no menu deixou de ficar cortado.",
-  "sha256": "96fe0e248ee7613f093fb6ccec2c311c4f893383b83ba81bec0531ee88e348b9"
+  "versionCode": 32,
+  "versionName": "0.32.0",
+  "apkUrl": "https://updates.baixarapp1.net/turbo-br-pro-0.32.0.apk",
+  "notes": "Vencimento da linha sempre a vista na tela inicial. Tela Conta com as acoes em cards. Filmes, series e canais recem-adicionados na vitrine. Icone novo do app.",
+  "sha256": "a90c6cc9d1ae931e43b0d26ecb04095ad079d53d576b21414d66065f2bc5e0bd"
 }
