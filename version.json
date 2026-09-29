@@ -1,7 +1,7 @@
 {
-  "versionCode": 34,
-  "versionName": "0.34.0",
-  "apkUrl": "https://updates.baixarapp1.net/turbo-br-pro-0.34.0.apk",
-  "notes": "Arrastar o tempo do filme com o dedo no celular, setinha nos streamings e relógio no banner",
-  "sha256": "a8ca2e8466dcd5cb18f1987ebfd3af79e573e80eb6d0dbf3a6d73e08aa890bcb"
+  "versionCode": 35,
+  "versionName": "0.35.0",
+  "apkUrl": "https://updates.baixarapp1.net/turbo-br-pro-0.35.0.apk",
+  "notes": "Login mais estável ao abrir, botão Próximo episódio e vencimento mais bonitos no celular",
+  "sha256": "f3f3f624e5cd2044ce1c7ae6e44db5152ed430d9c22b5ccb82388bd833bc52de"
 }
