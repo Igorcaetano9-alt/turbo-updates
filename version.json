@@ -1,7 +1,7 @@
 {
-  "versionCode": 33,
-  "versionName": "0.33.0",
-  "apkUrl": "https://updates.baixarapp1.net/turbo-br-pro-0.33.0.apk",
-  "notes": "Botões dos streamings na Início, botão Próximo episódio nas séries e novo menu de Ordenar",
-  "sha256": "d9d00da4f2b963e18385561faa4dbfee4914a3b8e2a8d9290016c42b16baa387"
+  "versionCode": 34,
+  "versionName": "0.34.0",
+  "apkUrl": "https://updates.baixarapp1.net/turbo-br-pro-0.34.0.apk",
+  "notes": "Arrastar o tempo do filme com o dedo no celular, setinha nos streamings e relógio no banner",
+  "sha256": "a8ca2e8466dcd5cb18f1987ebfd3af79e573e80eb6d0dbf3a6d73e08aa890bcb"
 }
