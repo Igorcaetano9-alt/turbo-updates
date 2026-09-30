@@ -1,7 +1,7 @@
 {
-  "versionCode": 36,
-  "versionName": "0.36.0",
-  "apkUrl": "https://updates.baixarapp1.net/turbo-br-pro-0.36.0.apk",
-  "notes": "Busca separada em Filmes, Séries e Ao vivo, vencimento em cartão e novo botão Próximo episódio",
-  "sha256": "fee821cc32f82cb42db3984c49cc4e6ff5564a7ca5c181b5bf451b2ae04dd094"
+  "versionCode": 37,
+  "versionName": "0.37.0",
+  "apkUrl": "https://updates.baixarapp1.net/turbo-br-pro-0.37.0.apk",
+  "notes": "Aviso de vencimento da assinatura nos últimos 3 dias e data clicável na Início",
+  "sha256": "650c05deb94902c9382c57377bc55e07496f80f6cdffc254bf0efc65d1415cb4"
 }
