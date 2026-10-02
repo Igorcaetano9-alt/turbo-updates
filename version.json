@@ -1,7 +1,7 @@
 {
-  "versionCode": 38,
-  "versionName": "0.38.0",
-  "apkUrl": "https://updates.baixarapp1.net/turbo-br-pro-0.38.0.apk",
-  "notes": "Avisos da abertura aparecem um de cada vez",
-  "sha256": "f1137f7e76b84d7dd9a23d4aaa8d8f5114e5b4adf09eeb2188b5db23e801cdb1"
+  "versionCode": 39,
+  "versionName": "0.39.0",
+  "apkUrl": "https://updates.baixarapp1.net/turbo-br-pro-0.39.0.apk",
+  "notes": "Nova tela inicial: destaques de filmes e séries com sinopse, setas para passar e troca automática",
+  "sha256": "258084f280dbfd24f5a0b136c906014545d527b297529abff75835d5fe58751d"
 }
