@@ -1,7 +1,7 @@
 {
-  "versionCode": 40,
-  "versionName": "0.40.0",
-  "apkUrl": "https://updates.baixarapp1.net/turbo-br-pro-0.40.0.apk",
-  "notes": "Celular: deslize o dedo no destaque da tela inicial para passar os títulos; destaque ajustado para telas menores",
-  "sha256": "77d1058c633518618a068cafdeba36892a5601e11565c1700d16fce56b6bf859"
+  "versionCode": 41,
+  "versionName": "0.41.0",
+  "apkUrl": "https://updates.baixarapp1.net/turbo-br-pro-0.41.0.apk",
+  "notes": "Tela inicial: Continuar assistindo com capas inteiras e destaque maior na TV",
+  "sha256": "cab1402b302cd5dbfaf9d1e3c1fd6e579839652d5fdc8278193ba1078db56ce5"
 }
